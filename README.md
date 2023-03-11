@@ -1,0 +1,2 @@
+# mynewconnection
+test
